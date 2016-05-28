@@ -37,3 +37,9 @@ println(reverseThis)
 
 val toInt = "90234857".toInt
 println(toInt)
+
+val timesTwo = range.map(_ * 2)
+println(timesTwo)
+
+val stringNums = ("1", "2", "3")
+println(stringNums)
